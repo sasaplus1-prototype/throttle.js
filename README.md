@@ -1,0 +1,3 @@
+# throttle.js
+
+throttling function
