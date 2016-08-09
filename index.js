@@ -1,6 +1,6 @@
 'use strict';
 
-const now = (typeof Date.now !== 'undefined') ?
+var now = (typeof Date.now !== 'undefined') ?
   function() {
     return Date.now();
   } :
